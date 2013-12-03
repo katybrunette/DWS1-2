@@ -1,0 +1,7 @@
+Github Links: 
+
+My Repo (to Master branch): https://github.com/katybrunette/DWS1-2
+
+My Repo (to gh-pages branch): https://github.com/katybrunette/DWS1-2/tree/gh-pages
+
+My Live Page For Structure and Semantic Markup Assignment: http://katybrunette.github.io/DWS1-2/Wk1/
