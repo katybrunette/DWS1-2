@@ -1,0 +1,34 @@
+/* My CSS */
+
+/* All colors I got from Color Scheme Designer except the HSL values */
+/* The HSL color values I got from HSL Color Picker */
+
+
+body {
+	color: #A60000;
+	background-color: #FFC873;
+}
+
+h1 {
+	color: white;
+	background-color: #A60000;
+}
+
+h2 {
+	color: #FF7400;
+	background-color: #A60000;
+	opacity: 0.5;
+}
+
+ol {
+	color: white;
+	background-color: #FFB273;
+}
+
+a {
+	color: rgb(153, 102, 0);
+}
+
+li {
+	color: hsl(32, 96%, 27%);
+}
