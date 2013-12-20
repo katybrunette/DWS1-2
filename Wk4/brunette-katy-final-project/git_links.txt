@@ -1,0 +1,8 @@
+Github Links: 
+
+
+My Repo (to Master branch): https://github.com/katybrunette/DWS1-2
+
+My Repo (to gh-pages branch): https://github.com/katybrunette/DWS1-2/tree/gh-pages
+
+My Live Page For the Final Project: http://katybrunette.github.io/DWS1-2/Wk4/brunette-katy-final-project/index.html

@@ -1,0 +1,118 @@
+/* My CSS */
+
+/* body */
+body {
+	color: black;
+	background-color: #cccccc;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 0.85em; 
+	font-style: normal;
+	line-height: 105%;
+	text-align: left;
+	background-image: url('../images/evoque.jpg');
+	background-repeat: repeat;
+	background-position: center;
+}
+
+/* heading 1 */
+h1 {
+	color: #ffffff;
+	background-color: #000000;
+	opacity: 0.75;
+	padding: 15px;
+	border-radius: 20px;
+	font-family: 'Black Ops One', serif;
+}
+
+/* heading 2 */
+h2 {
+	color: black;
+	font-size: 1.25em;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	text-shadow: 2px 2px #cccccc;
+}
+
+/* heading 3 */
+h3 {
+	font-weight: bold;
+}
+
+/* navigation */
+nav {
+	display: block;
+}
+
+/* navigation list items */
+nav ul li {
+    display:inline;
+}
+
+/* table and cells */
+table, td {
+	position: center;
+	width: 820px;
+	padding: 5px;
+	text-transform: none;
+	letter-spacing: 1px;
+	font-size: 1em;
+	border: 0px;
+	text-align: center; 
+	background-color: white;
+	border-spacing: 5px;
+}
+
+/* table cells hover effect */
+table td:hover {
+	background-color: red;
+}
+
+/* image border radius */
+img {
+	border-radius: 25px;
+}
+
+/* container/box model */
+#container {
+	width: 1000px;
+	height: 100%;
+	padding: 10px;
+	border: 5px solid black;
+	border-radius: 25px;
+	margin: 0 auto;
+	box-shadow: 5px 5px 5px #000000;
+	display: block;
+	background-color: white;
+	opacity: 0.9;
+}
+
+/* column 1 */
+.column1of2 {
+	float: left;
+	width: 30%;
+	margin: 1%;
+	clear: none;
+	padding: 2%;
+}
+
+/* column 2 */
+.column2of2 {
+	float: right;
+	width: 60%;
+	margin: 1%;
+	clear: none;
+	padding: 1%;
+}
+
+/* form */
+#form {
+	width: 40%;
+	padding: 10px;
+	margin: 15px 2px auto;
+	font-size: 1em;
+	color: #A60000;
+	border: 3px solid red;
+	border-radius: 25px;
+	text-align: left;
+	background-color: #cccccc;
+}
